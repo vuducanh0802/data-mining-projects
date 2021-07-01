@@ -4,9 +4,10 @@
 - Datasets: https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 - Summary: Gridsearch for Decision Tree and XGBoostClassifier, PCA, visualization by dataprep, Classification <br>
 
-## 2. mnist-digit-regconition <br>
+## 2. mnist-digit-recognition <br>
 - Datasets: https://www.kaggle.com/c/digit-recognizer <br>
 - Summary: Simple Convolution Neural Network, Computer Vision <br>
+- P/s: sorry for the spelling-typo recognition to regconition
 
 ## 3. titanic<br>
 - Datasets: https://www.kaggle.com/c/titanic
