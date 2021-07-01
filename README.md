@@ -15,3 +15,4 @@
 ## 4. Covid-19 in USA + Analysis in the Effect of lockdown in USA (project in NTU, Singapore)
 - Datasets: https://covidtracking.com/data
 - Summary: Linear Regression, visualization by plotly, stringencyindex, Time Series
+- Co-author: Le Quang Anh
