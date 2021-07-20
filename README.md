@@ -20,3 +20,8 @@
 ## 5. Address Element Extraction
 - Datasets: https://www.kaggle.com/c/scl-2021-ds/overview
 - Summary: Bi-LSTM, Fasttext, NLP
+
+
+## 6. GAN Model
+- Datasets: MNIST
+- Summary: GAN
