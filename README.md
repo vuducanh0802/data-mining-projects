@@ -22,6 +22,6 @@
 - Summary: Bi-LSTM, Fasttext, NLP
 
 
-## 6. GAN Model
+## 6. Generative Adversarial Network Model
 - Datasets: MNIST
 - Summary: GAN
